@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+ultralytics
+opencv-python
+pillow
+numpy
+scipy
+pandas
+fastapi
+uvicorn
+requests
